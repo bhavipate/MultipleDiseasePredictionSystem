@@ -1,0 +1,2 @@
+ streamlit run "C:\MultipleDiseasePredictionSystem\multiple.py"
+
